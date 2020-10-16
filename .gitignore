@@ -1,4 +1,4 @@
 anotações.txt
 node_modules
-test.js
-fakedata.js
+src/database/test.js
+src/database/fakedata.js
